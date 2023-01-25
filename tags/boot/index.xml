@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>boot on wh0x blog</title>
-    <link>http://example.org/tags/boot/</link>
+    <link>https://wh0x.github.io/tags/boot/</link>
     <description>Recent content in boot on wh0x blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Jan 2023 11:51:25 +0800</lastBuildDate><atom:link href="http://example.org/tags/boot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 11:51:25 +0800</lastBuildDate><atom:link href="https://wh0x.github.io/tags/boot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boot</title>
-      <link>http://example.org/posts/tech/boot/</link>
+      <link>https://wh0x.github.io/posts/tech/boot/</link>
       <pubDate>Wed, 25 Jan 2023 11:51:25 +0800</pubDate>
       
-      <guid>http://example.org/posts/tech/boot/</guid>
+      <guid>https://wh0x.github.io/posts/tech/boot/</guid>
       <description>操作系统启动 1. pc上电后发生的事 cpu进入实模式，并从0xFFFF0处开始执行程序，也就是bios,主要进行系统自检以及在物理地址0处初始化</description>
     </item>
     

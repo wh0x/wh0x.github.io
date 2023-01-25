@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on wh0x blog</title>
-    <link>http://example.org/tags/</link>
+    <link>https://wh0x.github.io/tags/</link>
     <description>Recent content in Tags on wh0x blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Jan 2023 11:51:25 +0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 11:51:25 +0800</lastBuildDate><atom:link href="https://wh0x.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>boot</title>
-      <link>http://example.org/tags/boot/</link>
+      <link>https://wh0x.github.io/tags/boot/</link>
       <pubDate>Wed, 25 Jan 2023 11:51:25 +0800</pubDate>
       
-      <guid>http://example.org/tags/boot/</guid>
+      <guid>https://wh0x.github.io/tags/boot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>操作系统启动</title>
-      <link>http://example.org/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8/</link>
+      <link>https://wh0x.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8/</link>
       <pubDate>Wed, 25 Jan 2023 11:51:25 +0800</pubDate>
       
-      <guid>http://example.org/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8/</guid>
+      <guid>https://wh0x.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8/</guid>
       <description></description>
     </item>
     
